@@ -6,7 +6,7 @@ class IconLogo < Formula
   sha256 "1ebc62bae560b37614daade460beed14242ef5b6c7d2252abd858df3ad4c7a3e"
 
   def install
-    bin.install "icon_logo_macos" => "icon_logo"
+    bin.install "icon_logo"
   end
 
   test do
