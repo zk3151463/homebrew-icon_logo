@@ -1,8 +1,8 @@
 class IconLogo < Formula
   desc "图标生成工具"
   homepage "https://github.com/zk3151463/icon_logo"
-  url "https://github.com/zk3151463/icon_logo/archive/refs/tags/v1.0.3.tar.gz"
-  sha256 "f20828adc28a7a4df3a21ab197ca81b659c0e1fee0b93a74914d3682a3b979f9"
+  url "https://github.com/zk3151463/icon_logo/archive/refs/tags/v1.0.6.tar.gz"
+  sha256 "6c2e10b3d735da1fbf089829d2aa2d9855e30be5bcf7007f0ee627c12ec67bf5"
   license "MIT"
 
   depends_on "go" => :build
